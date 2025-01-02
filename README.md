@@ -15,22 +15,7 @@ Users start by pushing a new commit to the GitHub repository. This triggers the 
 - An AWS account with the necessary permissions to create the required resources.
 - GitHub account
 
-## Steps 📝
-
-| Step No | Document Link |
-| ------ | ------ |
-| 1 | [Create a Instance role Elastic Beanstalk][Step-1] |
-| 2 | [Configure Elastic Beanstalk Environment][Step-2] |
-| 3 | [Create a Pipeline to Deploy Node.js Application][Step-3] |
-| 4 | [View the Application][Step-4] |
-| 5 | [Clean Up][Step-5] |
-
-
-   [Step-1]: <./Steps/step1.md>
-   [Step-2]: <./Steps/step2.md>   
-   [Step-3]: <./Steps/step3.md>
-   [Step-4]: <./Steps/step4.md>
-   [Step-5]: <./Steps/step5.md>
+#>
 
 ## Usage 🛠️
 
